@@ -1,4 +1,4 @@
-#codigo del semáforo con botones
+# codigo del semáforo con botones
 SEMAFORO CON BOTONES: int Boton1 = 7;   // Pin para Tecla1
 int Boton2 = 6;   // Pin para Tecla2
 
